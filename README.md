@@ -1,7 +1,7 @@
 # LEDCubeAnimations
 A collection of 5x5x5 LED cube animations using the FastLED library
 
-I recently built a 5x5x5 LED cube using PL9823 RGB LEDs, which are supported by the extremely well maintained multiplatform LED control library [FastLED](https://github.com/FastLED/FastLED). In this repository I'll be uploading and maintaining animations I've created for the cube using this library.
+I recently built a 5x5x5 LED cube using PL9823 RGB LEDs, which are supported by the extremely well maintained multiplatform LED control library [FastLED](https://github.com/FastLED/FastLED). In this repository I'll be uploading and maintaining animations I've created for the cube using this library in the Arduino enviroment.
 
 
 ![LEDcube](https://i.imgur.com/icKBHii.jpg)
